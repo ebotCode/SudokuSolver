@@ -58,14 +58,14 @@ Solution : The program found the solution after just expanding one-instance (by 
 ## Sample Sudoku Puzzle 2 : (a harder puzzle)
 
     4     |      |8   5 
-    3   |      |      
-        |7     |      
+       3  |      |      
+          |7     |      
     ------+------+------
-    2   |      |  6   
-        |  8   |4     
-        |  1   |      
+    2     |      |  6   
+          |  8   |4     
+          |  1   |      
     ------+------+------
-        |6   3 |  7   
+          |6   3 |  7   
     5     |2     |      
     1   4 |      |      
     *************************
